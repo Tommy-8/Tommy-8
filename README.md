@@ -3,9 +3,9 @@
 -->
 
 
+<h1>Hi 👋, I am Tomas!
 
-
-<h1>Hi 👋, I am Tomas! <br/><a href="https://etseib.upc.edu/ca">Industrial Engineering Student at UPC</a>
+  [Industrial Engineering Student at UPC](https://etseib.upc.edu/ca) 
 
 <h2> About me </h2>
 Hello...
