@@ -1,11 +1,11 @@
-## Hi there 👋
-
 <!--
 **Tommy-8/Tommy-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 
 
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+
+<h1>Hi 👋, I am Tomas! <br/><a href="https://etseib.upc.edu/ca">Industrial Engineering Student at UPC</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
