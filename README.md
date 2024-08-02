@@ -27,7 +27,6 @@ UPC...
 
 <h2> Technical Abilities </h2>
 
-- Python
 - Streamlit
 
 ###
@@ -38,10 +37,19 @@ UPC...
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/minitab/minitab-original.svg" height="40" alt="minitab logo"  />
   <img width="12" />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height="45" width="45" alt="Arduino" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" height="45" width="45" alt="PostgreSQL" />
+ 
 
+    
 ###
 
+<h2> Environments I work with </h2>
+ 
+  - <b> GitHub </b>
+  - <b> Git </b>
+  - <b> VS Code </b>
+  
 <h2>📃 Certifications </h2>
 
 - <b> English </b>
@@ -67,4 +75,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      alt="mysql" height="50" width="50" />
 -->
