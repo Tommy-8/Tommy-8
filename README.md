@@ -16,13 +16,12 @@ Hello...
   - [UTM Genie](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-
-
 <h2> Education </h2>
-UPC...
+
+- **Universitat Politècnica de Catalunya**
+  - Industrial Engineering - ETSEIB: 2021-2025
+- **Virolai School** 
+  - Science Bachelor: 2019-2021
 
 
 <h2> Technical Abilities </h2>
